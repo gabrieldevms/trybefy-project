@@ -1,1 +1,1 @@
-SELECT full_name AS 'Nome Completo', email AS 'E-mail' FROM users;
+SELECT full_name AS 'Nome completo', email AS 'E-mail' FROM users;
