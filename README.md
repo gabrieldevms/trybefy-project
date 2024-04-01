@@ -8,7 +8,7 @@ O caso de uso escolhido, é um aplicativo de Streaming de músicas, o Trybefy �
 |:--:|
 |Diagrama do banco Trybefy|
 
-#📝 Habilidades utilizadas neste projeto:
+# 📝 Habilidades utilizadas neste projeto:
 
 - Utilizar a linguagem de consulta estruturada _(Structured Query Language - SQL)_;
 - Utilizar SQL para: Criar um banco de dados e suas respectivas tabelas;
